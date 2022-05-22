@@ -32,3 +32,21 @@ ax3.set_ylabel('Water Temperature [degC]')
 plt.show()
 
 ![image](https://user-images.githubusercontent.com/105494838/168346766-d0c327ea-578a-4e32-ac6c-deb69888bf39.png)
+
+Pembahasan Script Modul 4
+
+Lokasi yang digunakan sebagai objek pengamatan adalah bagian barat Pelabuhan Orford, Oregon. 
+Data diperoleh melalui bantuan perangkat buoy yang dimiliki dan dirawat oleh Pusat data buoy nasional. 
+Buoy diletakkan di atas pemukaan laut dengan kedalaman perairan 446 meter. Buoy memiliki luas jangkau pengamatan yaitu 798 yards. 
+Pengamatan suhu udara mencakup hingga tinggi 3.7 meter. Tinggi anemometer adalah 4,1 meter. Ketinggian barometer yaitu 2.7 meter.
+Terdapat 3 grafik yang diperoleh adalah grafik tekanan, kecepatan dan arah angin dan temperature air.
+Rentang data pengamatan yang digunakan adalah pada tanggal 15 Maret 2022 hingga 1 Mei 2022. Pada grafik tekanan,
+diperoleh bahwa setiap tengah bulan selama bulan Maret hingga 22 April 2022. Tekanan tertinggi terjadi di minggu pertama bulan April 2022 sebesar 1030 hPa.
+Terendah terjadi pada minggu ketiga bulan April 2022 dan terjadi dua kali  pada minggu tersebut sebesar 1000 hPa. Setelah tanggal 22 April,
+Tekanan memiliki nilai yang lebih tinggi dari 1015 hPa. Nilai tekanan angin tergantung pada suhu angin yang berhembus pada daerah tersebut.
+Angin bertemperatur tinggi akan memiliki nilai tekanan angin yang tinggi. Angin muson barat berhembus dari benua Asia menuju benua Australia
+dimana karakteristik angin yang dibawah adalah memiliki suhu dingin. Angin muson barat terjadi pada bulan Oktober hingga April.
+Sedangkan pada bulan April hingga Oktober terjadi musim timur yang memiliki nilai tekanan udara yang rendah karena membawa suhu yang tinggi
+sehingga tekanan udara rendah. Pada grafik ditemukan penurunan tekanan yang diperlihatkan melalui penurunan suhu pada permukaan air namun memiliki
+kecepatan angin yang tinggi. Hal yang memungkin terjadi adalah fenomena upwelling terjadi pada perairan tersebut. Dimana suhu permukaan air rendah
+akibat nilai kecepatan angin yang tinggi. Kecepatan angin tersebut mempengaruhi penetrasi cahaya matahari ke dalam kolom perairan dan menurunnya tingkat evaporasi akan menimbulkan suhu permukaan laut yang lebih tinggi. Menurut Tristianto et al. (2021), suhu permukaan yang tinggi menjauhi pesisir sehingga air dari laut dalam dengan suhu dingin menyebabkan suhu air permukaan menjadi lebih dingin.
