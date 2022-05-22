@@ -8,7 +8,7 @@ Terima kasih dan semoga bermanfaat!
 
 2. Fairus Jamil Rizqullah
 
-3. Dafina Amadita Shaquilla
+3. Dafina Amadita Shaquilla               26050120140168  Oseanografi A
 
 4. Vanessa Kurniawan
 
