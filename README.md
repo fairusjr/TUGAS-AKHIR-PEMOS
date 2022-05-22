@@ -6,7 +6,7 @@ Terima kasih dan semoga bermanfaat!
 # ANGGOTA KELOMPOK 1
 1. Aloysius Dimas Sanjaya Saliyo
 
-2. Fairus Jamil Rizqullah
+2. Fairus Jamil Rizqullah 26050120140103 Oseanografi B
 
 3. Dafina Amadita Shaquilla               26050120140168  Oseanografi A
 
