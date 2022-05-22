@@ -31,6 +31,8 @@ ax3.set_ylabel('Water Temperature [degC]')
 
 plt.show()
 
+![Screenshot 2021-12-28 203247](https://user-images.githubusercontent.com/105494838/169697765-24b388e4-9d79-4756-8169-267e880b5875.png)
+
 
 Pembahasan Script Modul 4
 
